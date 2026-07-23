@@ -664,14 +664,3 @@ use scoped credentials
 verify important transfers
 test before relying on destructive operations
 ```
-
-## References
-
-- [V](https://github.com/vlang/v)
-- [V 0.5.2](https://github.com/vlang/v/tree/0.5.2)
-- [V net.s3](https://github.com/vlang/v/tree/0.5.2/vlib/net/s3)
-- [V UI](https://github.com/vlang/ui)
-- [Pinned V UI revision](https://github.com/vlang/ui/tree/2f6fd14e67cf3da8cae1dff162493b762ffc8289)
-- [Cloudflare R2 S3 API compatibility](https://developers.cloudflare.com/r2/api/s3/api/)
-- [Cloudflare R2 API tokens](https://developers.cloudflare.com/r2/api/tokens/)
-- [AppImage manual packaging](https://docs.appimage.org/packaging-guide/manual.html)

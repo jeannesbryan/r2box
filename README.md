@@ -6,7 +6,7 @@ R2Box is an experimental desktop client for Cloudflare R2 and S3-compatible obje
 > **R2Box is experimental software. Expect bugs.**
 > It is a personal/open-source experiment built on a young GUI toolkit and is not intended to be treated as a production-grade replacement for mature S3 clients. Back up important data, use appropriately scoped credentials, and test destructive operations carefully.
 
-R2Box focuses on a small desktop workflow: **connect, browse, upload, download, inspect, and delete**. Starting with 0.4.0, R2Box also supports sequential transfer queues, cancellation, and retrying failed transfers.
+R2Box focuses on a small desktop workflow: connect, browse, upload, download, inspect, copy, move/rename, and delete. R2Box also supports sequential transfer queues, cancellation, and retrying failed transfers
 
 ## Features
 

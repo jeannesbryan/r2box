@@ -1,0 +1,14 @@
+# Folder hasil kompilasi dan distribusi
+/build/
+/dist/
+
+# Folder AppDir digenerate otomatis oleh build.sh
+/AppDir/
+
+# File binary V default (jika sewaktu-waktu terbuat)
+/main
+
+# File backup otomatis dari teks editor atau compiler
+*.bak
+main.v.before-*
+main.v.*.backup
